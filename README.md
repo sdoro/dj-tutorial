@@ -24,3 +24,7 @@
     ./manage.py syncdb
     # user: admin, password: root
     
+### Creating models
+
+    ./manage.py startapp polls
+
