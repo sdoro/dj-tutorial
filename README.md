@@ -18,3 +18,9 @@
 
     firefox https://dj-tutorial-sdoro.c9users.io/
     
+### Database setup
+
+    # edit and customize mysite/settings.py
+    ./manage.py syncdb
+    # user: admin, password: root
+    
