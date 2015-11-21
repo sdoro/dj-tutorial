@@ -28,3 +28,11 @@
 
     ./manage.py startapp polls
 
+### Edit the polls/models.py
+
+    ./manage.py syncdb
+    
+### Playing with the API
+
+    # Edit the polls/models.py
+    
