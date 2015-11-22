@@ -69,3 +69,7 @@
 ### Adding related objects [2]
 
     # Edit a file called admin.py in your polls directory
+
+### Adding related objects [3]
+
+    # Edit a file called admin.py in your polls directory
