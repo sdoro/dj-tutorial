@@ -1,3 +1,5 @@
+## start tutoria 01
+
 ### Initial setup
 
     virtualenv $HOME/.env
@@ -36,3 +38,10 @@
 
     # Edit the polls/models.py
     
+## start tutorial 02
+
+### Activate the admin site
+
+    # Uncomment "django.contrib.admin" in the INSTALLED_APPS setting.
+    ./manage.py syncdb
+    # Edit your mysite/urls.py
