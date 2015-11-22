@@ -1,4 +1,4 @@
-## start tutoria 01
+## start tutorial 01
 
 ### Initial setup
 
@@ -45,3 +45,8 @@
     # Uncomment "django.contrib.admin" in the INSTALLED_APPS setting.
     ./manage.py syncdb
     # Edit your mysite/urls.py
+    
+### Make the poll app modifiable in the admin
+
+    # create a file called admin.py in your polls directory
+
