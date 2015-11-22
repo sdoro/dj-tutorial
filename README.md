@@ -103,4 +103,4 @@
 ### Write your first view
 
     # edit the file polls/views.py
-
+    # edit your mysite/urls.py
