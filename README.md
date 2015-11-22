@@ -82,3 +82,8 @@
 
     # Edit a file called admin.py in your polls directory
     # Edit a file called polls/models.py 
+
+### Customize the admin change list [3]
+
+    # Edit a file called admin.py in your polls directory
+
