@@ -110,6 +110,11 @@
     # edit the file polls/views.py
     # make $MY_TEMPLATE/polls/index.html
 
-### A shortcut: render_to_response()
+### A shortcut: render_to_response() [1]
 
     # edit the file polls/views.py
+
+### A shortcut: render_to_response() [2] (Raising 404)
+    
+    # edit the file polls/views.py
+    # make $MY_TEMPLATE/polls/detail.html
