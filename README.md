@@ -50,3 +50,9 @@
 
     # create a file called admin.py in your polls directory
 
+### Customize the admin form [1]
+
+    # Edit a file called admin.py in your polls directory
+    
+
+    
