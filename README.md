@@ -104,3 +104,7 @@
 
     # edit the file polls/views.py
     # edit your mysite/urls.py
+
+### Write views that actually do something
+
+    
