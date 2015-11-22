@@ -1,5 +1,6 @@
 from polls.models import Poll
 from django.contrib import admin
+from polls.models import Choice
 
 class PollAdmin(admin.ModelAdmin):
     fieldsets = [
@@ -8,3 +9,4 @@ class PollAdmin(admin.ModelAdmin):
     ]
     
 admin.site.register(Poll, PollAdmin)
+admin.site.register(Choice)

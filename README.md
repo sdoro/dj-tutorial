@@ -61,3 +61,8 @@
 ### Customize the admin form [3]
 
     # Edit a file called admin.py in your polls directory
+
+### Adding related objects [1]
+
+    # Edit a file called admin.py in your polls directory
+
