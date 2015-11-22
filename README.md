@@ -119,3 +119,11 @@
     # edit the file polls/views.py
     # make $MY_TEMPLATE/polls/detail.html
     # edit your mysite/urls.py
+
+### Decoupling the URLconfs
+
+    cp mysite/urls.py polls/
+    # edit mysite/urls.py
+    # edit polls/urls.py
+
+## start tutorial 04
