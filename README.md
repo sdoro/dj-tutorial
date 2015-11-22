@@ -73,3 +73,7 @@
 ### Adding related objects [3]
 
     # Edit a file called admin.py in your polls directory
+
+### Customize the admin change list [1]
+
+    # Edit a file called admin.py in your polls directory
