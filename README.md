@@ -109,3 +109,7 @@
 
     # edit the file polls/views.py
     # make $MY_TEMPLATE/polls/index.html
+
+### A shortcut: render_to_response()
+
+    # edit the file polls/views.py
