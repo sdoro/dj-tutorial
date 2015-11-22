@@ -99,3 +99,8 @@
     cp $VIRTUAL_ENV/lib/python2.7/site-packages/django/contrib/admin/templates/admin/index.html $MY_TEMPLATE/admin
 
 ## start tutorial 03
+
+### Write your first view
+
+    # edit the file polls/views.py
+
