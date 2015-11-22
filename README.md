@@ -93,3 +93,9 @@
     mkdir -p $MY_TEMPLATE/admin
     cp $VIRTUAL_ENV/lib/python2.7/site-packages/django/contrib/admin/templates/admin/base_site.html $MY_TEMPLATE/admin
     # edit mysite/settings.py
+
+### Customize the admin index page
+
+    cp $VIRTUAL_ENV/lib/python2.7/site-packages/django/contrib/admin/templates/admin/index.html $MY_TEMPLATE/admin
+
+## start tutorial 03
