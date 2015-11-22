@@ -87,3 +87,9 @@
 
     # Edit a file called admin.py in your polls directory
 
+### Customize the admin look and feel
+
+    MY_TEMPLATE=/home/ubuntu/workspace/template
+    mkdir -p $MY_TEMPLATE/admin
+    cp $VIRTUAL_ENV/lib/python2.7/site-packages/django/contrib/admin/templates/admin/base_site.html $MY_TEMPLATE/admin
+    # edit mysite/settings.py
