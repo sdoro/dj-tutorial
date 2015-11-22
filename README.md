@@ -107,4 +107,5 @@
 
 ### Write views that actually do something
 
-    
+    # edit the file polls/views.py
+    # make $MY_TEMPLATE/polls/index.html
