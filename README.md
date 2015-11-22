@@ -54,5 +54,7 @@
 
     # Edit a file called admin.py in your polls directory
     
+### Customize the admin form [2]
 
+    # Edit a file called admin.py in your polls directory
     
